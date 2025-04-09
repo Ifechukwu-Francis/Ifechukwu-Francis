@@ -18,7 +18,7 @@ and UI|UX design. Eager to build practical user-friendly web applications and br
      <img aline="left" alt="html" width="30px style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
           
 <br />
-
+#
 ---
 - 🔭 I’m currently working on expanding my foundational knowledge of web development, computer networking, and UI|UX design
 - 🌱 I’m currently learning web development and computer networking.

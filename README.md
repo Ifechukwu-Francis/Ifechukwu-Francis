@@ -1,13 +1,12 @@
 # Hi there, I'm Ifechukwu Francis 👋
 
-**From network to the Web| Computer science student**
+**From network to the Web | Computer science student**
 
 A computer science student with a fairly solid foundation in computer hardware, networking and CCTV technology, now exploing the excitingworld of web developement
 and UI|UX design. Eager to build practical user-friendly web applications and bring digital ideas to life.
 
 ### Languages and tools
-
-         
+ 
      <img aline="left" alt="html" width="30px style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
           
      <img aline="left" alt="html" width="30px style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -18,10 +17,6 @@ and UI|UX design. Eager to build practical user-friendly web applications and br
      
      <img aline="left" alt="html" width="30px style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
           
-          
-          
-          
-
 <br />
 
 ---

@@ -1,9 +1,8 @@
 # Hi there, I'm Ifechukwu Francis 👋
 
-**From network to the Web | Computer science student**
+**Backend developer| Computer science student**
 
-A computer science student with a fairly solid foundation in computer hardware, networking and CCTV technology, now exploing the exciting world of web developement
-and UI|UX design. Eager to build practical user-friendly web applications and bring digital ideas to life.
+I’m a Computer Science student specializing in backend development. I’m fascinated by how complex systems handle data and logic behind the scenes.Lately, I’ve been focusing on JavaScript , node.js, Express.js, SQL, and PostgreSQL. I’m eager to apply my technical foundation to a team where I can contribute to scalable code and keep sharpening my architectural skills
 
 ---
 ### 🧰 Languages and Tools
@@ -20,9 +19,9 @@ and UI|UX design. Eager to build practical user-friendly web applications and br
 
 
 - 🔭 I’m currently working on expanding my foundational knowledge of web development, computer networking, and UI|UX design
-- 🌱 I’m currently learning web development and computer networking.
+- 🌱 I’m currently learning Backend development.
 - 👯 I’m looking to collaborate on small beginner-friendly projects where i can contribute and learn from others.
-- 🤔 I’m looking for help with getting into cyber security
+  <!--🤔 I’m looking for help with getting into-->
 - 💬 Ask me about my background in computer hardware, basic networking concepts, CCTV technology and anything you like
 - ⚡ Fun fact: i love playing basketball, coding and cooking!
 <!-- 📫 How to reach me: message me at -->

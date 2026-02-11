@@ -1,8 +1,9 @@
 # Hi there, I'm Ifechukwu Francis 👋
 
-**Backend developer| Computer science student**
+**Backend developer | Computer science student**
 
-I’m a Computer Science student specializing in backend development. I’m fascinated by how complex systems handle data and logic behind the scenes.Lately, I’ve been focusing on JavaScript , node.js, Express.js, SQL, and PostgreSQL. I’m eager to apply my technical foundation to a team where I can contribute to scalable code and keep sharpening my architectural skills
+I’m a Computer Science student specializing in backend development. I’m fascinated by how complex systems handle data and logic behind the scenes. Lately, I’ve been focusing on JavaScript , node.js, Express.js, SQL, and PostgreSQL. 
+I’m eager to apply my technical foundation to a team where I can contribute to scalable code and keep sharpening my architectural skills
 
 ---
 ### 🧰 Languages and Tools

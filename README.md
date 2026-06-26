@@ -1,37 +1,35 @@
 # Hi there, I'm Ifechukwu Francis 👋
 
-**Backend developer | Computer science student**
+### Backend & DevOps Engineer 
 
-I’m a Computer Science student specializing in backend development. I’m fascinated by how complex systems handle data and logic behind the scenes. Lately, I’ve been focusing on JavaScript , node.js, Express.js, SQL, and PostgreSQL. 
-I’m eager to apply my technical foundation to a team where I can contribute to scalable code and keep sharpening my architectural skills
+I am a Backend and DevOps Engineer dedicated to building high-performance server-side logic and robust deployment pipelines. I specialize in designing scalable APIs and managing containerized cloud environments, focusing on reducing manual overhead through continuous integration and seamless automation.
 
 ---
-### 🧰 Languages and Tools
 
-<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />   
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="express.js" width="30px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-<img align="left" alt="node.js" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-<img align="left" alt="typescript" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="postgresql" width="30px" style="padding-right:10px;"  
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-          
+### 🛠️ Languages and Tools
 
-<br />
+<p align="left">
+  <!-- Backend Stack -->
+  <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+</p>
+<p align="left">
+  <!-- DevOps & Infrastructure Stack -->
+  <img src="https://img.shields.io/badge/azure_devops-0078D4?style=flat-square&logo=azure-devops&logoColor=white" alt="Azure DevOps"/>
+  <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/github_actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+</p>
 
-###
+---
 
+### ⚡ What I'm Up To
 
-- 🔭 I’m currently working on expanding my foundational knowledge of Backend development
-- 🌱 I’m currently learning Backend development.
-- 👯 I’m looking to collaborate on small beginner-friendly projects where i can contribute and learn from others.
-  <!--🤔 I’m looking for help with getting into-->
-- 💬 Ask me about my background in computer hardware,and anything you like
-- ⚡ Fun fact: i love playing basketball, coding and cooking!
-<!-- 📫 How to reach me: message me at -->
-
+* 🚀 **Currently building**: Scalable APIs, optimizing database schemas with MySQL and Prisma, and refining backend server performance.
+* ☁️ **Learning & Practicing**: Advanced CI/CD pipelines, containerization workflows using Docker, and cloud deployments via Azure DevOps.
+* 💬 **Ask me about**: Core backend architecture, hardware troubleshooting, or setting up automated version control workflows.
+* 🏀 **Fun fact**: I love playing basketball, coding, and cooking!

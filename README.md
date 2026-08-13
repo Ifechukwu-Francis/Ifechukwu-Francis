@@ -2,7 +2,7 @@
 
 ### Backend & DevOps Engineer 
 
-I am a Backend and DevOps Engineer dedicated to building high-performance server-side logic and robust deployment pipelines. I specialize in designing scalable APIs and managing containerized cloud environments, focusing on reducing manual overhead through continuous integration and seamless automation.
+I am a Backend and DevOps Engineer dedicated to building server-side logic and robust deployment pipelines. I specialize in designing APIs and managing containerized cloud environments, focusing on reducing manual overhead through continuous integration and seamless automation.
 
 ---
 
